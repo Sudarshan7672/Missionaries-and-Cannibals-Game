@@ -1,1 +1,2 @@
 # Missionaries-and-Cannibals-Game
+## Missionaries and cannibals game is built using python programming language. This game work on basic principle's in which user has to carry one or two person at a time using boat. The boat must cross the river in such a way that the number of "missionaries" should not be greater than "cannibals"(although the cannibals can be alone on the bank of river). Without the death of cannibals, user has to carry them on the another side of the bank.
